@@ -21,7 +21,7 @@ spring:
       org.springframework: DEBUG
       org.hibernate: DEBUG
 app:
-  jwtSecret: c2VjdXJlS2V5MjAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==
+  jwtSecret: ======================MYREALLYBIGSECRETKEY==================
   jwtExpirationMs: 900000
 
 springdoc:
